@@ -3,8 +3,9 @@
     "name":"EMC Client",
     "website":"https://github.com/Moudoux/Example-EMC-Client",
     "author":"Deftware",
-    "minversion":6,
+    "minversion":12.8,
     "version":1,
-    "main":"me.deftware.client.Main.Main"
+    "main":"me.deftware.client.Main.Main",
+    "updateLinkOverride": false
 
 }
